@@ -1,9 +1,10 @@
 {
-  "name": "openclaw-mcp-adapter",
-  "version": "0.1.0",
+  "name": "xiaowan",
+  "version": "0.1.1",
   "type": "module",
   "description": "OpenClaw plugin that exposes MCP server tools as native agent tools",
   "keywords": ["openclaw", "openclaw-plugin", "mcp", "model-context-protocol"],
+  "author": "y-shi23",
   "license": "MIT",
   "openclaw": {
     "extensions": ["./index.ts"]
@@ -11,7 +12,7 @@
   "files": ["index.ts", "mcp-client.ts", "config.ts", "openclaw.plugin.json", "README.md"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/androidStern/openclaw-mcp-adapter"
+    "url": "https://github.com/y-shi23/OmniClawPlugin"
   },
   "engines": { "node": ">=18" },
   "dependencies": {
