@@ -1,5 +1,5 @@
 {
-  "id": "openclaw-mcp-adapter",
+  "id": "xiaowan",
   "name": "MCP Adapter",
   "description": "Exposes MCP server tools as native OpenClaw agent tools",
   "configSchema": {
